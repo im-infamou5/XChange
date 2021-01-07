@@ -306,8 +306,7 @@ public class Currency implements Comparable<Currency>, Serializable {
   public static final Currency ELF = createCurrency("ELF", "aelf", null);
   public static final Currency STORJ = createCurrency("STORJ", "Storj", null);
   public static final Currency MOD = createCurrency("MOD", "Modum", null);
-  public static final Currency MOD  = createCurrency("MOD", "Modum", null);"
-  public static final Currency MOD  = createCurrency("MOD", "Modum", null);"
+  public static final Currency MOD  = createCurrency("MOD", "Modum", null);
   public static final Currency JST = createCurrency("JST", "JUST", null);
   public static final Currency SRM = createCurrency("SRM", "Serum", null);
   public static final Currency CRV = createCurrency("CRV", "Curve DAO token", null);
@@ -378,8 +377,6 @@ public class Currency implements Comparable<Currency>, Serializable {
   public static final Currency MDT = createCurrency("MDT", "Measurable Data Token", null);
   public static final Currency STMX = createCurrency("STMX", "StormX", null);
   public static final Currency ALPHA = createCurrency("ALPHA", "ALPHA Finance Club", null);
-
-
 
   // Coinmarketcap top 200
   public static final Currency AE = createCurrency("AE", "Aeternity", null);
